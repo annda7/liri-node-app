@@ -7,10 +7,10 @@ node.js
 
 ## liri.js can take in one of the following commands:<h2>#
 
-concert-this
-spotify-this-song
-movie-this
-do-what-it-says
+1. concert-this
+2. spotify-this-song
+3. movie-this
+4. do-what-it-says
 
 # node liri.js concert-this <artist/band name here>
 
