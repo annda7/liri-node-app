@@ -5,7 +5,7 @@ node.js
 
 
 
-## liri.js can take in one of the following commands:<h2>#
+## liri.js can take in one of the following commands:<h2>
 
 1. concert-this
 2. spotify-this-song
