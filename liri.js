@@ -55,6 +55,7 @@ var liri = {
     runCommand: function (str) {
         var commaIndex = str.indexOf(',');
         var command, param;
+        
         if (commaIndex > -1) {
             command = str.slice(0, commaIndex);
             param = str.slice(commaIndex + 1);
