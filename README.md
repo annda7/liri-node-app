@@ -32,7 +32,7 @@ This will show the following information about the song in your terminal/bash wi
 
 ![spotify-this-song](/images/spotify-this2.png)
 
-## If no song is provided then your program will default to "The Sign" by Ace of Base.
+### If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 ![spotify-this-song](/images/spotify-this.png)
 
