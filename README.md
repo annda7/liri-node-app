@@ -30,15 +30,14 @@ This will show the following information about the song in your terminal/bash wi
 3. A preview link of the song from Spotify
 4. The album that the song is from
 
-
 ![spotify-this-song](/images/spotify-this2.png)
 
-# If no song is provided then your program will default to "The Sign" by Ace of Base.
+## If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 ![spotify-this-song](/images/spotify-this.png)
 
 
-# do-what-it-says
+# 3. do-what-it-says
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 ![do-what-it-says](/images/do-what-it-says.png)
