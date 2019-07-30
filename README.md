@@ -1,7 +1,6 @@
 # Liri-node-app - Homework!
 
 
-
 ## liri.js can take in one of the following commands:<h2>
 
 1. concert-this
@@ -10,7 +9,7 @@
 4. movie-this
 
 
-# concert-this
+# 1. concert-this
 
 This will search the Bands in Town Artist Events API:
 
@@ -21,7 +20,7 @@ This will search the Bands in Town Artist Events API:
 ![concert-this](/images/concertthis.png)
 
 
-# spotify-this-song
+# 2. spotify-this-song
 
 This will show the following information about the song in your terminal/bash window
   
@@ -34,7 +33,7 @@ This will show the following information about the song in your terminal/bash wi
 
 ![spotify-this-song](/images/spotify-this2.png)
 
-If no song is provided then your program will default to "The Sign" by Ace of Base.
+# If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 ![spotify-this-song](/images/spotify-this.png)
 
