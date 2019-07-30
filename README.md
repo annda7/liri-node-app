@@ -20,7 +20,7 @@ Name of the venue
 Venue location
 Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-![concert-this](/concertthis.png)
+![concert-this](/images/concertthis.png)
 
 
 
