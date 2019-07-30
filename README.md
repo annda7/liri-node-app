@@ -30,7 +30,7 @@ This will show the following information about the song in your terminal/bash wi
 3. A preview link of the song from Spotify
 4. The album that the song is from
 
-![spotify-this-song](/images/spotify-this2.png)
+![spotify-this-song](/images/spotify-this1.png)
 
 ### If no song is provided then your program will default to "The Sign" by Ace of Base.
 
