@@ -19,7 +19,7 @@ var liri = {
             });
     },
     'spotify-this-song': function (song) {
-        if (!song) song = 'The Sign';
+        if (!song) song = 'The Sign Ace Of Base';
         spotify.search({ type: 'track', query: song }, (err, data) => {
             if (err) return console.log('Error occurred: ' + err);
             var artistNames = new Set();
