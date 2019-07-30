@@ -13,9 +13,9 @@
 
 This will search the Bands in Town Artist Events API:
 
-1. Name of the venue
-2. Venue location
-3. Date of the Event (use moment to format this as "MM/DD/YYYY")
+* Name of the venue
+* Venue location
+* Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 ![concert-this](/images/concertthis.png)
 
@@ -25,10 +25,10 @@ This will search the Bands in Town Artist Events API:
 This will show the following information about the song in your terminal/bash window
   
 
-1. Artist(s)
-2. The song's name
-3. A preview link of the song from Spotify
-4. The album that the song is from
+* Artist(s)
+* The song's name
+* A preview link of the song from Spotify
+* The album that the song is from
 
 ![spotify-this-song](/images/spotify-this1.png)
 
@@ -55,8 +55,15 @@ This will output the following information to your terminal/bash window:
    * Plot of the movie.
    * Actors in the movie.
 
+![movie-this](/images/movie-this1.png)
 
-If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+###     *If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+
+![movie-this](/images/movie-this2.png)
+
+
+
+
 
 Technologies Utilized
 Node packages:
