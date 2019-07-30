@@ -32,7 +32,7 @@ This will show the following information about the song in your terminal/bash wi
 
 ![spotify-this-song](/images/spotify-this1.png)
 
-### If no song is provided then your program will default to "The Sign" by Ace of Base.
+###     *If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 ![spotify-this-song](/images/spotify-this.png)
 
@@ -43,7 +43,20 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 ![do-what-it-says](/images/do-what-it-says.png)
 
 
+# 4. movie-this
+This will output the following information to your terminal/bash window:
 
+   * Title of the movie.
+   * Year the movie came out.
+   * IMDB Rating of the movie.
+   * Rotten Tomatoes Rating of the movie.
+   * Country where the movie was produced.
+   * Language of the movie.
+   * Plot of the movie.
+   * Actors in the movie.
+
+
+If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
 Technologies Utilized
 Node packages:
