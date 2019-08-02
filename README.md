@@ -65,14 +65,12 @@ This will output the following information to your terminal/bash window:
 
 
 
-Technologies Utilized
+#Technologies Utilized
 Node packages:
-
-Node-Spotify-API
-Axios
-    You'll use Axios to grab data from the OMDB API and the Bands In Town API
-Moment
-DotEnv
+* Node-Spotify-API
+* Axios - You'll use Axios to grab data from the OMDB API and the Bands In Town API
+* Moment
+* DotEnv
 
 
 
