@@ -78,5 +78,5 @@ This will output the following information to your terminal/bash window:
 
 
 
-Author
+*Author:*
 Saranda Sharpe
