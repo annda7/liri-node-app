@@ -66,7 +66,9 @@ This will output the following information to your terminal/bash window:
 
 
 #Technologies Utilized
-Node packages:
+
+*Node packages:*
+
 * Node-Spotify-API
 * Axios - You'll use Axios to grab data from the OMDB API and the Bands In Town API
 * Moment
