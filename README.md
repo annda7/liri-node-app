@@ -65,7 +65,7 @@ This will output the following information to your terminal/bash window:
 
 
 
-#Technologies Utilized
+# Technologies Utilized
 
 *Node packages:*
 
